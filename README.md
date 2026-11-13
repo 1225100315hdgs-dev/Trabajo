@@ -10,6 +10,7 @@
 | :--- | :--- |
 | **directorio_dolores** | Directorio Dolores |
 | **dolores_ar** | Dolores AR |
+| **dolores_hoy** | Dolores Hoy |
 | **herramientas** | Herramientas |
 | **nieves_2048** | Nieves 2048 |
 | **punto_venta_dolores** | Punto de Venta Dolores |

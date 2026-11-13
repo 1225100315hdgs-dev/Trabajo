@@ -1,0 +1,12 @@
+.dart_tool/
+build/
+*.iml
+.idea/
+pubspec.lock
+# Secretos: JAMAS al repositorio
+secrets.json
+*.env
+.env*
+*.jks
+*.keystore
+key.properties
