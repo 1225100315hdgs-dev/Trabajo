@@ -1,0 +1,21 @@
+name: dolores_ar
+description: App turística con realidad aumentada para visitar Dolores Hidalgo.
+publish_to: none
+version: 1.0.0
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+# Si "flutter pub get" se queja de alguna versión, borra la línea y ejecuta:
+# flutter pub add camera geolocator flutter_compass model_viewer_plus
+dependencies:
+  flutter:
+    sdk: flutter
+  camera: ^0.11.0
+  geolocator: ^13.0.1
+  flutter_compass: ^0.8.1
+  model_viewer_plus: ^1.9.3
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+flutter:
+  uses-material-design: true
